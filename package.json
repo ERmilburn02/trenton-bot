@@ -1,0 +1,23 @@
+{
+  "name": "trenton-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ERmilburn02/trenton-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ERmilburn02/trenton-bot/issues"
+  },
+  "homepage": "https://github.com/ERmilburn02/trenton-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
